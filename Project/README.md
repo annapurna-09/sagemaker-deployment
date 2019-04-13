@@ -18,6 +18,7 @@ Read and follow the instructions! You can find and download the dataset for this
 Project Information
 
 General Outline
+
 Step 1: Downloading the data
 
 Step 2: Preparing and Processing the data
